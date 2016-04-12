@@ -1,5 +1,5 @@
-@prefix res: <http://dilab77.ionio.gr/swp/vdragonas/resource/> .
-@prefix vd: <http://dilab77.ionio.gr/swp/vdragonas/vocab#> .
+@prefix res: <http://dilab77.ionio.gr/swp/dragonas/resource/> .
+@prefix vd: <http://dilab77.ionio.gr/swp/dragonas/vocab#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 _:bnode0 rdf:type vd:DIALEKSH .
 res:MYLWNAS rdf:type vd:KATHIGITIS .
