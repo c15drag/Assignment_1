@@ -32,4 +32,4 @@ vd:ligeiWra rdf:range xsd:Time .
 
 vd:ginetaiTinMera rdf:type rdf:Property .
 vd:ginetaiTinMera rdf:domain vd:DIALEKSH .
-vd:ginetaiTinMera rdf:range xsd:Day .
+vd:ginetaiTinMera rdf:range rdfs:Literal .
