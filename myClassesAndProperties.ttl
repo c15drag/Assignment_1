@@ -23,13 +23,13 @@ vd:ginetaiStinAthousa rdfs:domain vd:DIALEKSH .
 vd:ginetaiStinAthousa rdfs:range vd:AITHOUSA .
 
 vd:ksekinaeiWra rdf:type rdf:Property .
-vd:ksekinaeiWra rdf:domain vd:DIALEKSH .
-vd:ksekinaeiWra rdf:range xsd:Time .
+vd:ksekinaeiWra rdfs:domain vd:DIALEKSH .
+vd:ksekinaeiWra rdfs:range xsd:Time .
 
 vd:ligeiWra rdf:type rdf:Property .
-vd:ligeiWra rdf:domain vd:DIALEKSH .
-vd:ligeiWra rdf:range xsd:Time .
+vd:ligeiWra rdfs:domain vd:DIALEKSH .
+vd:ligeiWra rdfs:range xsd:Time .
 
 vd:ginetaiTinMera rdf:type rdf:Property .
-vd:ginetaiTinMera rdf:domain vd:DIALEKSH .
-vd:ginetaiTinMera rdf:range rdfs:Literal .
+vd:ginetaiTinMera rdfs:domain vd:DIALEKSH .
+vd:ginetaiTinMera rdfs:range rdfs:Literal .
